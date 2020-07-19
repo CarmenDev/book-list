@@ -1,2 +1,2 @@
 # book-list
-Classes, local storage
+Classes, local storage, static
